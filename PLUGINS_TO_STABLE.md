@@ -5,3 +5,4 @@ Put the name of the plugin as a list item here, So like
 -->
 - llm
 - diff_preview
+- yazi
