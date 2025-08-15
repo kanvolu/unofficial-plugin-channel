@@ -98,5 +98,7 @@
     //wakatime
     "https://raw.githubusercontent.com/wakatime/micro-wakatime/master/repo.json",    
     //xonsh
-    "https://raw.githubusercontent.com/Neko-Box-Coder/unofficial-plugin-channel/main/plugins/xonsh.json"
+    "https://raw.githubusercontent.com/Neko-Box-Coder/unofficial-plugin-channel/main/plugins/xonsh.json",
+    //yazi
+    "https://raw.githubusercontent.com/kanvolu/yazi.micro/master/repo.json"
 ]
